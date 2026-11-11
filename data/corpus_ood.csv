@@ -1,0 +1,211 @@
+text,label
+cadê a carga sem ideia,consultar_embarque
+cadê a carga hj,consultar_embarque
+cadê a carga hj,consultar_embarque
+cadê a carga sem ideia,consultar_embarque
+cadê a carga mano,consultar_embarque
+embarque deu baixa? pfv,consultar_embarque
+embarque deu baixa? pfv,consultar_embarque
+embarque deu baixa? pfv,consultar_embarque
+embarque deu baixa? sem ideia,consultar_embarque
+embarque deu baixa? hj,consultar_embarque
+manda o status ai sem ideia,consultar_embarque
+manda o status ai sem ideia,consultar_embarque
+manda o status ai ??,consultar_embarque
+manda o status ai hj,consultar_embarque
+manda o status ai ??,consultar_embarque
+esse envio ta onde pls,consultar_embarque
+esse envio ta onde hj,consultar_embarque
+esse envio ta onde hj,consultar_embarque
+esse envio ta onde hj,consultar_embarque
+esse envio ta onde pfv,consultar_embarque
+tem vaga na doca? pfv,consultar_agendamento
+tem vaga na doca? ??,consultar_agendamento
+tem vaga na doca? ??,consultar_agendamento
+tem vaga na doca? hj,consultar_agendamento
+tem vaga na doca? ??,consultar_agendamento
+qual janela hj pfv,consultar_agendamento
+qual janela hj sem ideia,consultar_agendamento
+qual janela hj sem ideia,consultar_agendamento
+qual janela hj sem ideia,consultar_agendamento
+qual janela hj ??,consultar_agendamento
+marcar recebimento pls,consultar_agendamento
+marcar recebimento pfv,consultar_agendamento
+marcar recebimento pls,consultar_agendamento
+marcar recebimento ??,consultar_agendamento
+marcar recebimento mano,consultar_agendamento
+agenda do caminhao hj,consultar_agendamento
+agenda do caminhao pfv,consultar_agendamento
+agenda do caminhao sem ideia,consultar_agendamento
+agenda do caminhao pls,consultar_agendamento
+agenda do caminhao mano,consultar_agendamento
+preciso do danfe mano,consultar_nota_fiscal
+preciso do danfe pfv,consultar_nota_fiscal
+preciso do danfe pfv,consultar_nota_fiscal
+preciso do danfe mano,consultar_nota_fiscal
+preciso do danfe hj,consultar_nota_fiscal
+nf saiu? hj,consultar_nota_fiscal
+nf saiu? pls,consultar_nota_fiscal
+nf saiu? hj,consultar_nota_fiscal
+nf saiu? mano,consultar_nota_fiscal
+nf saiu? mano,consultar_nota_fiscal
+me passa o documento ??,consultar_nota_fiscal
+me passa o documento mano,consultar_nota_fiscal
+me passa o documento hj,consultar_nota_fiscal
+me passa o documento sem ideia,consultar_nota_fiscal
+me passa o documento pls,consultar_nota_fiscal
+nota ta ok ??,consultar_nota_fiscal
+nota ta ok hj,consultar_nota_fiscal
+nota ta ok pls,consultar_nota_fiscal
+nota ta ok hj,consultar_nota_fiscal
+nota ta ok ??,consultar_nota_fiscal
+a carreta entrou? mano,consultar_veiculo_patio
+a carreta entrou? sem ideia,consultar_veiculo_patio
+a carreta entrou? ??,consultar_veiculo_patio
+a carreta entrou? mano,consultar_veiculo_patio
+a carreta entrou? ??,consultar_veiculo_patio
+placa no patio pfv,consultar_veiculo_patio
+placa no patio sem ideia,consultar_veiculo_patio
+placa no patio hj,consultar_veiculo_patio
+placa no patio hj,consultar_veiculo_patio
+placa no patio sem ideia,consultar_veiculo_patio
+motorista chegou pfv,consultar_veiculo_patio
+motorista chegou mano,consultar_veiculo_patio
+motorista chegou hj,consultar_veiculo_patio
+motorista chegou pfv,consultar_veiculo_patio
+motorista chegou hj,consultar_veiculo_patio
+veiculo ta la pls,consultar_veiculo_patio
+veiculo ta la mano,consultar_veiculo_patio
+veiculo ta la pls,consultar_veiculo_patio
+veiculo ta la sem ideia,consultar_veiculo_patio
+veiculo ta la mano,consultar_veiculo_patio
+deu ruim na carga? pfv,consultar_ocorrencia
+deu ruim na carga? mano,consultar_ocorrencia
+deu ruim na carga? mano,consultar_ocorrencia
+deu ruim na carga? pfv,consultar_ocorrencia
+deu ruim na carga? sem ideia,consultar_ocorrencia
+tem BO desse envio mano,consultar_ocorrencia
+tem BO desse envio sem ideia,consultar_ocorrencia
+tem BO desse envio sem ideia,consultar_ocorrencia
+tem BO desse envio sem ideia,consultar_ocorrencia
+tem BO desse envio hj,consultar_ocorrencia
+quebrou alguma coisa ??,consultar_ocorrencia
+quebrou alguma coisa sem ideia,consultar_ocorrencia
+quebrou alguma coisa pfv,consultar_ocorrencia
+quebrou alguma coisa ??,consultar_ocorrencia
+quebrou alguma coisa sem ideia,consultar_ocorrencia
+por que atrasou pfv,consultar_ocorrencia
+por que atrasou pfv,consultar_ocorrencia
+por que atrasou pls,consultar_ocorrencia
+por que atrasou pls,consultar_ocorrencia
+por que atrasou mano,consultar_ocorrencia
+passou de cinco horas? sem ideia,consultar_estadia
+passou de cinco horas? sem ideia,consultar_estadia
+passou de cinco horas? ??,consultar_estadia
+passou de cinco horas? pfv,consultar_estadia
+passou de cinco horas? sem ideia,consultar_estadia
+quanto tempo excedeu mano,consultar_estadia
+quanto tempo excedeu hj,consultar_estadia
+quanto tempo excedeu pfv,consultar_estadia
+quanto tempo excedeu hj,consultar_estadia
+quanto tempo excedeu mano,consultar_estadia
+vai cobrar permanencia? pls,consultar_estadia
+vai cobrar permanencia? mano,consultar_estadia
+vai cobrar permanencia? hj,consultar_estadia
+vai cobrar permanencia? pfv,consultar_estadia
+vai cobrar permanencia? ??,consultar_estadia
+tempo parado sem ideia,consultar_estadia
+tempo parado mano,consultar_estadia
+tempo parado pfv,consultar_estadia
+tempo parado sem ideia,consultar_estadia
+tempo parado pls,consultar_estadia
+quem fez o frete? pls,consultar_transportadora
+quem fez o frete? sem ideia,consultar_transportadora
+quem fez o frete? pls,consultar_transportadora
+quem fez o frete? pfv,consultar_transportadora
+quem fez o frete? mano,consultar_transportadora
+empresa do transporte pfv,consultar_transportadora
+empresa do transporte pfv,consultar_transportadora
+empresa do transporte sem ideia,consultar_transportadora
+empresa do transporte ??,consultar_transportadora
+empresa do transporte ??,consultar_transportadora
+qual foi a transportadora mano,consultar_transportadora
+qual foi a transportadora sem ideia,consultar_transportadora
+qual foi a transportadora ??,consultar_transportadora
+qual foi a transportadora pls,consultar_transportadora
+qual foi a transportadora ??,consultar_transportadora
+dados do carrier pls,consultar_transportadora
+dados do carrier mano,consultar_transportadora
+dados do carrier pfv,consultar_transportadora
+dados do carrier pfv,consultar_transportadora
+dados do carrier ??,consultar_transportadora
+e ai bot pls,saudacao
+e ai bot hj,saudacao
+e ai bot hj,saudacao
+e ai bot hj,saudacao
+e ai bot pfv,saudacao
+tmj valeu sem ideia,saudacao
+tmj valeu pfv,saudacao
+tmj valeu sem ideia,saudacao
+tmj valeu pls,saudacao
+tmj valeu ??,saudacao
+falou hj,saudacao
+falou pls,saudacao
+falou pls,saudacao
+falou ??,saudacao
+falou pls,saudacao
+bom diaa ??,saudacao
+bom diaa mano,saudacao
+bom diaa ??,saudacao
+bom diaa hj,saudacao
+bom diaa sem ideia,saudacao
+socorro como usa sem ideia,ajuda
+socorro como usa hj,ajuda
+socorro como usa sem ideia,ajuda
+socorro como usa ??,ajuda
+socorro como usa mano,ajuda
+quais opcoes sem ideia,ajuda
+quais opcoes mano,ajuda
+quais opcoes hj,ajuda
+quais opcoes mano,ajuda
+quais opcoes pls,ajuda
+me ajuda ai pfv,ajuda
+me ajuda ai pls,ajuda
+me ajuda ai hj,ajuda
+me ajuda ai sem ideia,ajuda
+me ajuda ai sem ideia,ajuda
+nao sei consultar mano,ajuda
+nao sei consultar ??,ajuda
+nao sei consultar pfv,ajuda
+nao sei consultar ??,ajuda
+nao sei consultar hj,ajuda
+quem ganhou o jogo? sem ideia,fora_escopo
+quem ganhou o jogo? mano,fora_escopo
+quem ganhou o jogo? sem ideia,fora_escopo
+quem ganhou o jogo? ??,fora_escopo
+quem ganhou o jogo? ??,fora_escopo
+faz um desenho pfv,fora_escopo
+faz um desenho pfv,fora_escopo
+faz um desenho mano,fora_escopo
+faz um desenho pfv,fora_escopo
+faz um desenho ??,fora_escopo
+me da conselho ??,fora_escopo
+me da conselho hj,fora_escopo
+me da conselho ??,fora_escopo
+me da conselho mano,fora_escopo
+me da conselho pls,fora_escopo
+quanto ta o dolar hj,fora_escopo
+quanto ta o dolar hj,fora_escopo
+quanto ta o dolar mano,fora_escopo
+quanto ta o dolar mano,fora_escopo
+quanto ta o dolar pfv,fora_escopo
+[REGRA] EMB000010,consultar_embarque
+[REGRA] AAA1B23,consultar_veiculo_patio
+[REGRA] 123456,consultar_nota_fiscal
+[REGRA] oi,saudacao
+[REGRA] ajuda,ajuda
+[REGRA] danfe 123456,consultar_nota_fiscal
+[REGRA] status do EMB000010 hj,consultar_embarque
+EMB000010,consultar_embarque
+AAA1B23,consultar_veiculo_patio
+123456,consultar_nota_fiscal
