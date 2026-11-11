@@ -1,6 +1,6 @@
 # Assistente via Telegram para Consultas Operacionais
 
-Projeto acadêmico para a **FBS Distribuição**, com classificação supervisionada de intenções e consultas operacionais sintéticas.
+Projeto acadêmico **IA 1** para a **FBS Distribuição**, com classificação supervisionada de intenções e consultas operacionais sintéticas.
 
 Autores: Daniel Domiciano Spindola (RA 115562), Gustavo de Oliveira Fusco (RA 115220) e Joao Gabriel Coitinho Bonin (RA 115872) — Engenharia de Computação, FHO Araras.
 
