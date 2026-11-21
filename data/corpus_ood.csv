@@ -1,0 +1,211 @@
+text,label,kind
+cadê a mercadoria que despacharam,consultar_embarque,ood
+consegue ver se a carga andou,consultar_embarque,ood
+me atualiza sobre o envio por favor,consultar_embarque,ood
+esse caminhão já pegou estrada,consultar_embarque,ood
+a encomenda saiu do depósito,consultar_embarque,ood
+tem notícia da remessa,consultar_embarque,ood
+olha pra mim onde parou a entrega,consultar_embarque,ood
+meu pedido tá rodando ainda,consultar_embarque,ood
+a carga foi embora hoje,consultar_embarque,ood
+confere a situação desse transporte,consultar_embarque,ood
+o carregamento foi concluído,consultar_embarque,ood
+essa mercadoria chegou no destino,consultar_embarque,ood
+quero acompanhar a operação agora,consultar_embarque,ood
+o envio continua pendente,consultar_embarque,ood
+descobre onde deixaram minha carga,consultar_embarque,ood
+me fala se liberaram a mercadoria,consultar_embarque,ood
+o pedido entrou em trânsito,consultar_embarque,ood
+como está indo esse transporte,consultar_embarque,ood
+checa pra mim se o embarque andou,consultar_embarque,ood
+a remessa já foi despachada,consultar_embarque,ood
+qual janela deram pro caminhão,consultar_agendamento,ood
+que horas ficou a descarga,consultar_agendamento,ood
+tem horário reservado pra carreta,consultar_agendamento,ood
+quando é pra encostar na doca,consultar_agendamento,ood
+a entrega tá marcada pra hoje,consultar_agendamento,ood
+confere a hora que chamaram o motorista,consultar_agendamento,ood
+tem reserva de recebimento,consultar_agendamento,ood
+qual dia ficou combinado,consultar_agendamento,ood
+o veículo tem slot pra entrar,consultar_agendamento,ood
+me diz a previsão da doca,consultar_agendamento,ood
+que horas posso chegar com a carga,consultar_agendamento,ood
+a operação foi agendada mesmo,consultar_agendamento,ood
+onde vejo a janela de hoje,consultar_agendamento,ood
+ficou certo o horário do descarregamento,consultar_agendamento,ood
+qual turno atende esse caminhão,consultar_agendamento,ood
+tem uma vaga separada pra entrega,consultar_agendamento,ood
+confirma quando a carreta pode entrar,consultar_agendamento,ood
+qual o horário que passaram pro motorista,consultar_agendamento,ood
+a doca já está reservada,consultar_agendamento,ood
+me avisa quando agendaram a carga,consultar_agendamento,ood
+manda o número do documento fiscal,consultar_nota_fiscal,ood
+o danfe já tá liberado,consultar_nota_fiscal,ood
+a nota saiu ou ainda não,consultar_nota_fiscal,ood
+preciso conferir o papel da mercadoria,consultar_nota_fiscal,ood
+tem documento pra acompanhar a carga,consultar_nota_fiscal,ood
+me passa os dados fiscais por favor,consultar_nota_fiscal,ood
+essa remessa tem nota emitida,consultar_nota_fiscal,ood
+onde consulto o arquivo da nf,consultar_nota_fiscal,ood
+confere se faturaram o pedido,consultar_nota_fiscal,ood
+a documentação fiscal foi anexada,consultar_nota_fiscal,ood
+consegue achar esse danfe,consultar_nota_fiscal,ood
+o motorista recebeu a nota,consultar_nota_fiscal,ood
+me confirma o documento de transporte,consultar_nota_fiscal,ood
+já fizeram a emissão fiscal,consultar_nota_fiscal,ood
+olha se a nota está disponível,consultar_nota_fiscal,ood
+qual número aparece no danfe,consultar_nota_fiscal,ood
+preciso do comprovante fiscal,consultar_nota_fiscal,ood
+essa carga foi faturada,consultar_nota_fiscal,ood
+a nota acompanha o embarque,consultar_nota_fiscal,ood
+puxa a situação da documentação,consultar_nota_fiscal,ood
+a carreta já encostou aí,consultar_veiculo_patio,ood
+o motorista passou na guarita,consultar_veiculo_patio,ood
+confere a entrada do bruto,consultar_veiculo_patio,ood
+o caminhão tá aguardando lá dentro,consultar_veiculo_patio,ood
+a placa apareceu no controle,consultar_veiculo_patio,ood
+já chamaram o veículo pra doca,consultar_veiculo_patio,ood
+o caminhoneiro chegou no CD,consultar_veiculo_patio,ood
+esse veículo já foi embora,consultar_veiculo_patio,ood
+dá uma olhada na portaria,consultar_veiculo_patio,ood
+o cavalo mecânico entrou,consultar_veiculo_patio,ood
+a carga está sendo atendida agora,consultar_veiculo_patio,ood
+o veículo continua no pátio,consultar_veiculo_patio,ood
+tem registro que a carreta chegou,consultar_veiculo_patio,ood
+quando deram entrada no caminhão,consultar_veiculo_patio,ood
+confirma se o motorista saiu,consultar_veiculo_patio,ood
+a placa foi registrada na chegada,consultar_veiculo_patio,ood
+o caminhão tá na fila de descarga,consultar_veiculo_patio,ood
+verifica se liberaram o veículo,consultar_veiculo_patio,ood
+a carreta já entrou pra carregar,consultar_veiculo_patio,ood
+que horas o motorista deu chegada,consultar_veiculo_patio,ood
+a mercadoria chegou amassada,consultar_ocorrencia,ood
+teve algum pepino com essa carga,consultar_ocorrencia,ood
+o frete atrasou por algum motivo,consultar_ocorrencia,ood
+alguém anotou problema na entrega,consultar_ocorrencia,ood
+deu falta de volume nesse envio,consultar_ocorrencia,ood
+o que aconteceu com o transporte,consultar_ocorrencia,ood
+bateram alguma ressalva no recebimento,consultar_ocorrencia,ood
+essa operação teve algum BO,consultar_ocorrencia,ood
+sabe por que seguraram a carga,consultar_ocorrencia,ood
+reportaram dano no carregamento,consultar_ocorrencia,ood
+o motorista avisou algum imprevisto,consultar_ocorrencia,ood
+teve divergência quando descarregou,consultar_ocorrencia,ood
+apareceu reclamação dessa remessa,consultar_ocorrencia,ood
+a carga veio com algum estrago,consultar_ocorrencia,ood
+registraram atraso na portaria,consultar_ocorrencia,ood
+alguém abriu chamado pra esse frete,consultar_ocorrencia,ood
+teve alguma intercorrência no trajeto,consultar_ocorrencia,ood
+por que não entregaram no prazo,consultar_ocorrencia,ood
+confere se anotaram avaria,consultar_ocorrencia,ood
+faltou algum documento na operação,consultar_ocorrencia,ood
+quanto passou das cinco horas lá,consultar_estadia,ood
+ficou muito tempo esperando pra carregar,consultar_estadia,ood
+essa parada gera cobrança,consultar_estadia,ood
+quantas horas o bruto ficou encostado,consultar_estadia,ood
+bateu o limite de permanência,consultar_estadia,ood
+quanto tempo levou da chegada até sair,consultar_estadia,ood
+o motorista tem direito a estadia,consultar_estadia,ood
+ficou preso mais de cinco horas,consultar_estadia,ood
+vê quanto deu de espera no pátio,consultar_estadia,ood
+a descarga demorou além do permitido,consultar_estadia,ood
+calcula a demora dessa carreta,consultar_estadia,ood
+passou do prazo de tolerância,consultar_estadia,ood
+quanto ficou parado esperando a doca,consultar_estadia,ood
+tem valor de espera pra cobrar,consultar_estadia,ood
+o veículo excedeu o tempo grátis,consultar_estadia,ood
+quanto deu de hora parada,consultar_estadia,ood
+ficou além das cinco horas de tolerância,consultar_estadia,ood
+confere o tempo de permanência do caminhão,consultar_estadia,ood
+vai ter indenização pela demora,consultar_estadia,ood
+a operação demorou mais que o limite,consultar_estadia,ood
+qual firma pegou esse frete,consultar_transportadora,ood
+quem trouxe a mercadoria pra cá,consultar_transportadora,ood
+me fala o nome do pessoal do transporte,consultar_transportadora,ood
+qual parceira atende essa rota,consultar_transportadora,ood
+de quem é esse caminhão,consultar_transportadora,ood
+qual empresa está com a carga,consultar_transportadora,ood
+quem ficou com essa entrega,consultar_transportadora,ood
+que transportador levou o pedido,consultar_transportadora,ood
+descobre quem fez a coleta,consultar_transportadora,ood
+essa carga veio por qual companhia,consultar_transportadora,ood
+me mostra quem presta o serviço,consultar_transportadora,ood
+qual é a firma responsável pelo envio,consultar_transportadora,ood
+quem está encarregado da remessa,consultar_transportadora,ood
+de qual frota é esse veículo,consultar_transportadora,ood
+quem opera esse embarque,consultar_transportadora,ood
+qual parceiro logístico está vinculado,consultar_transportadora,ood
+identifica a empresa que transportou,consultar_transportadora,ood
+quem entregou essa mercadoria,consultar_transportadora,ood
+qual transportador está cadastrado,consultar_transportadora,ood
+a carga veio com qual empresa,consultar_transportadora,ood
+e aí meu amigo,saudacao,ood
+fala assistente tudo certo,saudacao,ood
+opa bom dia,saudacao,ood
+boa tarde como estamos,saudacao,ood
+salve bot,saudacao,ood
+tudo bem contigo,saudacao,ood
+oi pessoal cheguei,saudacao,ood
+valeu pela força até depois,saudacao,ood
+obrigadão ajudou bastante,saudacao,ood
+até mais e bom trabalho,saudacao,ood
+como vai por aí,saudacao,ood
+um salve pra equipe,saudacao,ood
+bom dia tudo em ordem,saudacao,ood
+boa noite pessoal,saudacao,ood
+olá estou por aqui,saudacao,ood
+agradeço demais viu,saudacao,ood
+falou até a próxima,saudacao,ood
+oi tudo tranquilo,saudacao,ood
+prazer falar contigo,saudacao,ood
+boa tarde meu caro,saudacao,ood
+não sei por onde começo,ajuda,ood
+me explica como falar com o bot,ajuda,ood
+quais pesquisas dá pra fazer,ajuda,ood
+tem algum guia de uso,ajuda,ood
+como mando uma consulta aqui,ajuda,ood
+me mostra o jeito certo de perguntar,ajuda,ood
+não entendi as opções,ajuda,ood
+quais códigos eu preciso informar,ajuda,ood
+me dá uma mão com esse sistema,ajuda,ood
+como faço pra procurar uma carga,ajuda,ood
+tem instrução pra usar o chat,ajuda,ood
+me explica as consultas disponíveis,ajuda,ood
+onde vejo os exemplos de comando,ajuda,ood
+quero aprender a mexer nisso,ajuda,ood
+pode explicar as funções,ajuda,ood
+como peço o status da carga,ajuda,ood
+me orienta rapidinho,ajuda,ood
+não estou conseguindo consultar,ajuda,ood
+quais são os recursos do assistente,ajuda,ood
+ensina como funciona por favor,ajuda,ood
+qual série você recomenda,fora_escopo,ood
+me fala uma curiosidade aleatória,fora_escopo,ood
+vai chover no fim de semana,fora_escopo,ood
+quem ganhou o campeonato ontem,fora_escopo,ood
+como faço um bolo de cenoura,fora_escopo,ood
+me ajuda a escolher um celular,fora_escopo,ood
+qual o preço da gasolina,fora_escopo,ood
+me conta uma história engraçada,fora_escopo,ood
+quanto custa viajar pra praia,fora_escopo,ood
+qual a melhor música do ano,fora_escopo,ood
+me explica como funciona bitcoin,fora_escopo,ood
+que horas começa o jogo,fora_escopo,ood
+me sugere um presente de aniversário,fora_escopo,ood
+qual restaurante abre até tarde,fora_escopo,ood
+me ajuda com uma receita vegetariana,fora_escopo,ood
+quem é o presidente do país,fora_escopo,ood
+como está o clima em Araras,fora_escopo,ood
+me indique um livro de mistério,fora_escopo,ood
+qual filme está em cartaz,fora_escopo,ood
+me conta uma piada curta,fora_escopo,ood
+EMB000010,consultar_embarque,regra
+AAA1B23,consultar_veiculo_patio,regra
+123456,consultar_nota_fiscal,regra
+oi,saudacao,regra
+ajuda,ajuda,regra
+danfe 123456,consultar_nota_fiscal,regra
+status do EMB000010 hj,consultar_embarque,regra
+ocorrências do EMB000010,consultar_ocorrencia,regra
+"Olá, bom dia",saudacao,regra
+nf 123456 agora,consultar_nota_fiscal,regra

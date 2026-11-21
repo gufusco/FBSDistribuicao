@@ -1,0 +1,2001 @@
+text,label,group
+qual a situação do embarque,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga,consultar_embarque,consultar_embarque_01
+me informe o status da remessa,consultar_embarque,consultar_embarque_02
+onde está o envio,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte,consultar_embarque,consultar_embarque_06
+como está o carregamento,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque,consultar_embarque,consultar_embarque_08
+a carga já foi liberada,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido,consultar_embarque,consultar_embarque_19
+qual a situação do embarque por favor,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga por favor,consultar_embarque,consultar_embarque_01
+me informe o status da remessa por favor,consultar_embarque,consultar_embarque_02
+onde está o envio por favor,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque por favor,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga por favor,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte por favor,consultar_embarque,consultar_embarque_06
+como está o carregamento por favor,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque por favor,consultar_embarque,consultar_embarque_08
+a carga já foi liberada por favor,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega por favor,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria por favor,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída por favor,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu por favor,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado por favor,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito por favor,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema por favor,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga por favor,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado por favor,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido por favor,consultar_embarque,consultar_embarque_19
+qual a situação do embarque por gentileza,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga por gentileza,consultar_embarque,consultar_embarque_01
+me informe o status da remessa por gentileza,consultar_embarque,consultar_embarque_02
+onde está o envio por gentileza,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque por gentileza,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga por gentileza,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte por gentileza,consultar_embarque,consultar_embarque_06
+como está o carregamento por gentileza,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque por gentileza,consultar_embarque,consultar_embarque_08
+a carga já foi liberada por gentileza,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega por gentileza,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria por gentileza,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída por gentileza,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu por gentileza,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado por gentileza,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito por gentileza,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema por gentileza,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga por gentileza,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado por gentileza,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido por gentileza,consultar_embarque,consultar_embarque_19
+qual a situação do embarque consegue verificar,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga consegue verificar,consultar_embarque,consultar_embarque_01
+me informe o status da remessa consegue verificar,consultar_embarque,consultar_embarque_02
+onde está o envio consegue verificar,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque consegue verificar,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga consegue verificar,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte consegue verificar,consultar_embarque,consultar_embarque_06
+como está o carregamento consegue verificar,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque consegue verificar,consultar_embarque,consultar_embarque_08
+a carga já foi liberada consegue verificar,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega consegue verificar,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria consegue verificar,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída consegue verificar,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu consegue verificar,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado consegue verificar,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito consegue verificar,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema consegue verificar,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga consegue verificar,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado consegue verificar,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido consegue verificar,consultar_embarque,consultar_embarque_19
+qual a situação do embarque quando puder,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga quando puder,consultar_embarque,consultar_embarque_01
+me informe o status da remessa quando puder,consultar_embarque,consultar_embarque_02
+onde está o envio quando puder,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque quando puder,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga quando puder,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte quando puder,consultar_embarque,consultar_embarque_06
+como está o carregamento quando puder,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque quando puder,consultar_embarque,consultar_embarque_08
+a carga já foi liberada quando puder,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega quando puder,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria quando puder,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída quando puder,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu quando puder,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado quando puder,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito quando puder,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema quando puder,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga quando puder,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado quando puder,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido quando puder,consultar_embarque,consultar_embarque_19
+qual a situação do embarque para mim,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga para mim,consultar_embarque,consultar_embarque_01
+me informe o status da remessa para mim,consultar_embarque,consultar_embarque_02
+onde está o envio para mim,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque para mim,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga para mim,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte para mim,consultar_embarque,consultar_embarque_06
+como está o carregamento para mim,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque para mim,consultar_embarque,consultar_embarque_08
+a carga já foi liberada para mim,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega para mim,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria para mim,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída para mim,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu para mim,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado para mim,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito para mim,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema para mim,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga para mim,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado para mim,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido para mim,consultar_embarque,consultar_embarque_19
+qual a situação do embarque agora,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga agora,consultar_embarque,consultar_embarque_01
+me informe o status da remessa agora,consultar_embarque,consultar_embarque_02
+onde está o envio agora,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque agora,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga agora,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte agora,consultar_embarque,consultar_embarque_06
+como está o carregamento agora,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque agora,consultar_embarque,consultar_embarque_08
+a carga já foi liberada agora,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega agora,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria agora,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída agora,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu agora,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado agora,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito agora,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema agora,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga agora,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado agora,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido agora,consultar_embarque,consultar_embarque_19
+qual a situação do embarque rapidinho,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga rapidinho,consultar_embarque,consultar_embarque_01
+me informe o status da remessa rapidinho,consultar_embarque,consultar_embarque_02
+onde está o envio rapidinho,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque rapidinho,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga rapidinho,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte rapidinho,consultar_embarque,consultar_embarque_06
+como está o carregamento rapidinho,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque rapidinho,consultar_embarque,consultar_embarque_08
+a carga já foi liberada rapidinho,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega rapidinho,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria rapidinho,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída rapidinho,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu rapidinho,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado rapidinho,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito rapidinho,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema rapidinho,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga rapidinho,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado rapidinho,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido rapidinho,consultar_embarque,consultar_embarque_19
+qual a situação do embarque pfv,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga pfv,consultar_embarque,consultar_embarque_01
+me informe o status da remessa pfv,consultar_embarque,consultar_embarque_02
+onde está o envio pfv,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque pfv,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga pfv,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte pfv,consultar_embarque,consultar_embarque_06
+como está o carregamento pfv,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque pfv,consultar_embarque,consultar_embarque_08
+a carga já foi liberada pfv,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega pfv,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria pfv,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída pfv,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu pfv,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado pfv,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito pfv,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema pfv,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga pfv,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado pfv,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido pfv,consultar_embarque,consultar_embarque_19
+qual a situação do embarque por favor?,consultar_embarque,consultar_embarque_00
+quero acompanhar a carga por favor?,consultar_embarque,consultar_embarque_01
+me informe o status da remessa por favor?,consultar_embarque,consultar_embarque_02
+onde está o envio por favor?,consultar_embarque,consultar_embarque_03
+consulte os dados do embarque por favor?,consultar_embarque,consultar_embarque_04
+preciso rastrear uma carga por favor?,consultar_embarque,consultar_embarque_05
+verifique a situação do transporte por favor?,consultar_embarque,consultar_embarque_06
+como está o carregamento por favor?,consultar_embarque,consultar_embarque_07
+quero localizar o meu embarque por favor?,consultar_embarque,consultar_embarque_08
+a carga já foi liberada por favor?,consultar_embarque,consultar_embarque_09
+consulte o andamento da entrega por favor?,consultar_embarque,consultar_embarque_10
+preciso do rastreio da mercadoria por favor?,consultar_embarque,consultar_embarque_11
+qual etapa do transporte foi concluída por favor?,consultar_embarque,consultar_embarque_12
+me diga se o caminhão saiu por favor?,consultar_embarque,consultar_embarque_13
+acompanhe o pedido enviado por favor?,consultar_embarque,consultar_embarque_14
+a mercadoria está em trânsito por favor?,consultar_embarque,consultar_embarque_15
+consulte a remessa no sistema por favor?,consultar_embarque,consultar_embarque_16
+mostre os detalhes da carga por favor?,consultar_embarque,consultar_embarque_17
+quando o embarque foi atualizado por favor?,consultar_embarque,consultar_embarque_18
+quero saber onde está o meu pedido por favor?,consultar_embarque,consultar_embarque_19
+qual o horário do agendamento,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento por favor,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca por favor,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado por favor,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento por favor,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga por favor,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado por favor,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro por favor,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga por favor,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada por favor,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo por favor,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando por favor,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada por favor,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento por favor,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação por favor,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido por favor,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje por favor,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento por favor,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca por favor,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque por favor,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado por favor,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento por gentileza,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca por gentileza,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado por gentileza,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento por gentileza,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga por gentileza,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado por gentileza,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro por gentileza,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga por gentileza,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada por gentileza,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo por gentileza,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando por gentileza,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada por gentileza,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento por gentileza,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação por gentileza,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido por gentileza,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje por gentileza,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento por gentileza,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca por gentileza,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque por gentileza,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado por gentileza,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento consegue verificar,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca consegue verificar,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado consegue verificar,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento consegue verificar,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga consegue verificar,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado consegue verificar,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro consegue verificar,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga consegue verificar,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada consegue verificar,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo consegue verificar,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando consegue verificar,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada consegue verificar,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento consegue verificar,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação consegue verificar,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido consegue verificar,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje consegue verificar,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento consegue verificar,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca consegue verificar,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque consegue verificar,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado consegue verificar,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento quando puder,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca quando puder,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado quando puder,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento quando puder,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga quando puder,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado quando puder,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro quando puder,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga quando puder,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada quando puder,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo quando puder,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando quando puder,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada quando puder,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento quando puder,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação quando puder,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido quando puder,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje quando puder,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento quando puder,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca quando puder,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque quando puder,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado quando puder,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento para mim,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca para mim,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado para mim,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento para mim,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga para mim,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado para mim,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro para mim,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga para mim,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada para mim,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo para mim,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando para mim,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada para mim,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento para mim,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação para mim,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido para mim,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje para mim,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento para mim,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca para mim,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque para mim,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado para mim,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento agora,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca agora,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado agora,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento agora,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga agora,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado agora,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro agora,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga agora,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada agora,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo agora,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando agora,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada agora,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento agora,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação agora,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido agora,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje agora,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento agora,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca agora,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque agora,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado agora,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento rapidinho,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca rapidinho,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado rapidinho,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento rapidinho,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga rapidinho,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado rapidinho,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro rapidinho,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga rapidinho,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada rapidinho,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo rapidinho,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando rapidinho,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada rapidinho,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento rapidinho,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação rapidinho,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido rapidinho,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje rapidinho,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento rapidinho,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca rapidinho,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque rapidinho,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado rapidinho,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento pfv,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca pfv,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado pfv,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento pfv,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga pfv,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado pfv,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro pfv,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga pfv,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada pfv,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo pfv,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando pfv,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada pfv,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento pfv,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação pfv,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido pfv,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje pfv,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento pfv,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca pfv,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque pfv,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado pfv,consultar_agendamento,consultar_agendamento_19
+qual o horário do agendamento por favor?,consultar_agendamento,consultar_agendamento_00
+consulte a janela da doca por favor?,consultar_agendamento,consultar_agendamento_01
+quando o caminhão está marcado por favor?,consultar_agendamento,consultar_agendamento_02
+veja a agenda de recebimento por favor?,consultar_agendamento,consultar_agendamento_03
+qual a data da descarga por favor?,consultar_agendamento,consultar_agendamento_04
+confirme o horário reservado por favor?,consultar_agendamento,consultar_agendamento_05
+quando devo chegar ao centro por favor?,consultar_agendamento,consultar_agendamento_06
+verifique o agendamento da carga por favor?,consultar_agendamento,consultar_agendamento_07
+qual doca foi reservada por favor?,consultar_agendamento,consultar_agendamento_08
+consulte a programação do veículo por favor?,consultar_agendamento,consultar_agendamento_09
+a descarga está marcada para quando por favor?,consultar_agendamento,consultar_agendamento_10
+quero ver o horário de entrada por favor?,consultar_agendamento,consultar_agendamento_11
+qual é a janela de carregamento por favor?,consultar_agendamento,consultar_agendamento_12
+confirme a data da operação por favor?,consultar_agendamento,consultar_agendamento_13
+a entrega tem horário definido por favor?,consultar_agendamento,consultar_agendamento_14
+verifique a agenda de hoje por favor?,consultar_agendamento,consultar_agendamento_15
+quando começa o recebimento por favor?,consultar_agendamento,consultar_agendamento_16
+qual o status da reserva da doca por favor?,consultar_agendamento,consultar_agendamento_17
+consulte a programação do embarque por favor?,consultar_agendamento,consultar_agendamento_18
+preciso saber o horário reservado por favor?,consultar_agendamento,consultar_agendamento_19
+consulte a nota fiscal,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal por favor,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe por favor,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota por favor,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal por favor,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida por favor,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf por favor,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota por favor,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga por favor,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe por favor,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada por favor,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível por favor,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte por favor,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal por favor,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal por favor,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria por favor,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque por favor,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado por favor,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número por favor,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga por favor,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido por favor,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido por gentileza,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido consegue verificar,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal quando puder,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe quando puder,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota quando puder,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal quando puder,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida quando puder,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf quando puder,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota quando puder,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga quando puder,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe quando puder,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada quando puder,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível quando puder,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte quando puder,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal quando puder,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal quando puder,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria quando puder,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque quando puder,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado quando puder,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número quando puder,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga quando puder,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido quando puder,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal para mim,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe para mim,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota para mim,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal para mim,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida para mim,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf para mim,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota para mim,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga para mim,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe para mim,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada para mim,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível para mim,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte para mim,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal para mim,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal para mim,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria para mim,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque para mim,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado para mim,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número para mim,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga para mim,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido para mim,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal agora,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe agora,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota agora,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal agora,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida agora,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf agora,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota agora,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga agora,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe agora,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada agora,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível agora,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte agora,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal agora,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal agora,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria agora,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque agora,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado agora,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número agora,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga agora,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido agora,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido rapidinho,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal pfv,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe pfv,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota pfv,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal pfv,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida pfv,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf pfv,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota pfv,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga pfv,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe pfv,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada pfv,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível pfv,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte pfv,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal pfv,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal pfv,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria pfv,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque pfv,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado pfv,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número pfv,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga pfv,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido pfv,consultar_nota_fiscal,consultar_nota_fiscal_19
+consulte a nota fiscal por favor?,consultar_nota_fiscal,consultar_nota_fiscal_00
+preciso localizar o danfe por favor?,consultar_nota_fiscal,consultar_nota_fiscal_01
+qual o número da nota por favor?,consultar_nota_fiscal,consultar_nota_fiscal_02
+verifique o documento fiscal por favor?,consultar_nota_fiscal,consultar_nota_fiscal_03
+a nota fiscal já foi emitida por favor?,consultar_nota_fiscal,consultar_nota_fiscal_04
+quero consultar uma nf por favor?,consultar_nota_fiscal,consultar_nota_fiscal_05
+mostre os dados da nota por favor?,consultar_nota_fiscal,consultar_nota_fiscal_06
+localize o arquivo fiscal da carga por favor?,consultar_nota_fiscal,consultar_nota_fiscal_07
+confirme a emissão do danfe por favor?,consultar_nota_fiscal,consultar_nota_fiscal_08
+me informe a nota vinculada por favor?,consultar_nota_fiscal,consultar_nota_fiscal_09
+o documento fiscal está disponível por favor?,consultar_nota_fiscal,consultar_nota_fiscal_10
+consulte a nf do transporte por favor?,consultar_nota_fiscal,consultar_nota_fiscal_11
+preciso do status da nota fiscal por favor?,consultar_nota_fiscal,consultar_nota_fiscal_12
+encontre o registro fiscal por favor?,consultar_nota_fiscal,consultar_nota_fiscal_13
+qual documento acompanha a mercadoria por favor?,consultar_nota_fiscal,consultar_nota_fiscal_14
+verifique a nota do embarque por favor?,consultar_nota_fiscal,consultar_nota_fiscal_15
+o danfe foi liberado por favor?,consultar_nota_fiscal,consultar_nota_fiscal_16
+busque uma nota pelo número por favor?,consultar_nota_fiscal,consultar_nota_fiscal_17
+quero ver o documento da carga por favor?,consultar_nota_fiscal,consultar_nota_fiscal_18
+consulte a situação fiscal do pedido por favor?,consultar_nota_fiscal,consultar_nota_fiscal_19
+o veículo já chegou ao pátio,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio por favor,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio por favor,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou por favor,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta por favor,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro por favor,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria por favor,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo por favor,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada por favor,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca por favor,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu por favor,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio por favor,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada por favor,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão por favor,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca por favor,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local por favor,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo por favor,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro por favor,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa por favor,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta por favor,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio por favor,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio por gentileza,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio consegue verificar,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio quando puder,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio quando puder,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou quando puder,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta quando puder,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro quando puder,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria quando puder,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo quando puder,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada quando puder,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca quando puder,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu quando puder,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio quando puder,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada quando puder,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão quando puder,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca quando puder,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local quando puder,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo quando puder,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro quando puder,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa quando puder,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta quando puder,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio quando puder,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio para mim,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio para mim,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou para mim,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta para mim,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro para mim,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria para mim,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo para mim,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada para mim,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca para mim,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu para mim,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio para mim,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada para mim,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão para mim,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca para mim,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local para mim,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo para mim,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro para mim,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa para mim,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta para mim,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio para mim,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio agora,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio agora,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou agora,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta agora,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro agora,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria agora,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo agora,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada agora,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca agora,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu agora,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio agora,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada agora,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão agora,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca agora,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local agora,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo agora,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro agora,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa agora,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta agora,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio agora,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio rapidinho,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio pfv,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio pfv,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou pfv,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta pfv,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro pfv,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria pfv,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo pfv,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada pfv,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca pfv,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu pfv,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio pfv,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada pfv,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão pfv,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca pfv,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local pfv,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo pfv,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro pfv,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa pfv,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta pfv,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio pfv,consultar_veiculo_patio,consultar_veiculo_patio_19
+o veículo já chegou ao pátio por favor?,consultar_veiculo_patio,consultar_veiculo_patio_00
+consulte a placa no pátio por favor?,consultar_veiculo_patio,consultar_veiculo_patio_01
+quando o caminhão entrou por favor?,consultar_veiculo_patio,consultar_veiculo_patio_02
+verifique a chegada da carreta por favor?,consultar_veiculo_patio,consultar_veiculo_patio_03
+o motorista está dentro do centro por favor?,consultar_veiculo_patio,consultar_veiculo_patio_04
+a placa passou pela portaria por favor?,consultar_veiculo_patio,consultar_veiculo_patio_05
+consulte a movimentação do veículo por favor?,consultar_veiculo_patio,consultar_veiculo_patio_06
+qual foi o horário de entrada por favor?,consultar_veiculo_patio,consultar_veiculo_patio_07
+o caminhão está na doca por favor?,consultar_veiculo_patio,consultar_veiculo_patio_08
+verifique se a carreta saiu por favor?,consultar_veiculo_patio,consultar_veiculo_patio_09
+quero localizar o veículo no pátio por favor?,consultar_veiculo_patio,consultar_veiculo_patio_10
+a portaria registrou a chegada por favor?,consultar_veiculo_patio,consultar_veiculo_patio_11
+consulte os horários do caminhão por favor?,consultar_veiculo_patio,consultar_veiculo_patio_12
+quando o veículo foi direcionado à doca por favor?,consultar_veiculo_patio,consultar_veiculo_patio_13
+a carreta já deixou o local por favor?,consultar_veiculo_patio,consultar_veiculo_patio_14
+mostre a entrada do veículo por favor?,consultar_veiculo_patio,consultar_veiculo_patio_15
+o caminhão ainda está no centro por favor?,consultar_veiculo_patio,consultar_veiculo_patio_16
+consulte o registro da placa por favor?,consultar_veiculo_patio,consultar_veiculo_patio_17
+verifique a posição da carreta por favor?,consultar_veiculo_patio,consultar_veiculo_patio_18
+a placa consta no controle de pátio por favor?,consultar_veiculo_patio,consultar_veiculo_patio_19
+houve alguma ocorrência no embarque,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque por favor,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria por favor,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados por favor,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso por favor,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação por favor,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa por favor,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema por favor,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria por favor,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências por favor,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento por favor,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência por favor,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga por favor,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte por favor,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria por favor,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema por favor,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência por favor,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional por favor,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas por favor,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência por favor,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso por favor,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque por gentileza,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria por gentileza,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados por gentileza,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso por gentileza,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação por gentileza,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa por gentileza,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema por gentileza,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria por gentileza,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências por gentileza,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento por gentileza,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência por gentileza,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga por gentileza,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte por gentileza,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria por gentileza,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema por gentileza,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência por gentileza,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional por gentileza,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas por gentileza,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência por gentileza,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso por gentileza,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque consegue verificar,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria consegue verificar,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados consegue verificar,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso consegue verificar,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação consegue verificar,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa consegue verificar,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema consegue verificar,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria consegue verificar,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências consegue verificar,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento consegue verificar,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência consegue verificar,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga consegue verificar,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte consegue verificar,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria consegue verificar,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema consegue verificar,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência consegue verificar,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional consegue verificar,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas consegue verificar,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência consegue verificar,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso consegue verificar,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque quando puder,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria quando puder,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados quando puder,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso quando puder,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação quando puder,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa quando puder,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema quando puder,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria quando puder,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências quando puder,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento quando puder,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência quando puder,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga quando puder,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte quando puder,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria quando puder,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema quando puder,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência quando puder,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional quando puder,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas quando puder,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência quando puder,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso quando puder,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque para mim,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria para mim,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados para mim,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso para mim,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação para mim,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa para mim,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema para mim,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria para mim,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências para mim,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento para mim,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência para mim,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga para mim,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte para mim,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria para mim,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema para mim,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência para mim,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional para mim,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas para mim,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência para mim,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso para mim,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque agora,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria agora,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados agora,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso agora,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação agora,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa agora,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema agora,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria agora,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências agora,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento agora,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência agora,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga agora,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte agora,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria agora,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema agora,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência agora,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional agora,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas agora,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência agora,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso agora,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque rapidinho,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria rapidinho,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados rapidinho,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso rapidinho,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação rapidinho,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa rapidinho,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema rapidinho,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria rapidinho,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências rapidinho,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento rapidinho,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência rapidinho,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga rapidinho,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte rapidinho,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria rapidinho,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema rapidinho,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência rapidinho,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional rapidinho,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas rapidinho,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência rapidinho,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso rapidinho,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque pfv,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria pfv,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados pfv,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso pfv,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação pfv,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa pfv,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema pfv,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria pfv,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências pfv,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento pfv,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência pfv,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga pfv,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte pfv,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria pfv,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema pfv,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência pfv,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional pfv,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas pfv,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência pfv,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso pfv,consultar_ocorrencia,consultar_ocorrencia_19
+houve alguma ocorrência no embarque por favor?,consultar_ocorrencia,consultar_ocorrencia_00
+verifique se a carga teve avaria por favor?,consultar_ocorrencia,consultar_ocorrencia_01
+consulte os problemas registrados por favor?,consultar_ocorrencia,consultar_ocorrencia_02
+o transporte sofreu algum atraso por favor?,consultar_ocorrencia,consultar_ocorrencia_03
+existe incidente nessa operação por favor?,consultar_ocorrencia,consultar_ocorrencia_04
+mostre as ocorrências da remessa por favor?,consultar_ocorrencia,consultar_ocorrencia_05
+a entrega teve algum problema por favor?,consultar_ocorrencia,consultar_ocorrencia_06
+há registro de dano na mercadoria por favor?,consultar_ocorrencia,consultar_ocorrencia_07
+consulte o histórico de ocorrências por favor?,consultar_ocorrencia,consultar_ocorrencia_08
+foi registrada falta de documento por favor?,consultar_ocorrencia,consultar_ocorrencia_09
+o embarque teve alguma divergência por favor?,consultar_ocorrencia,consultar_ocorrencia_10
+houve atraso na descarga por favor?,consultar_ocorrencia,consultar_ocorrencia_11
+verifique os incidentes do transporte por favor?,consultar_ocorrencia,consultar_ocorrencia_12
+a carga chegou com avaria por favor?,consultar_ocorrencia,consultar_ocorrencia_13
+algum problema foi anotado no sistema por favor?,consultar_ocorrencia,consultar_ocorrencia_14
+quero consultar uma ocorrência por favor?,consultar_ocorrencia,consultar_ocorrencia_15
+há registro de atraso operacional por favor?,consultar_ocorrencia,consultar_ocorrencia_16
+mostre as falhas reportadas por favor?,consultar_ocorrencia,consultar_ocorrencia_17
+a operação teve intercorrência por favor?,consultar_ocorrencia,consultar_ocorrencia_18
+consulte o motivo do atraso por favor?,consultar_ocorrencia,consultar_ocorrencia_19
+calcule o tempo excedente no pátio,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão,consultar_estadia,consultar_estadia_02
+houve cobrança por espera,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas,consultar_estadia,consultar_estadia_06
+calcule o período de espera,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio,consultar_estadia,consultar_estadia_11
+houve espera acima do limite,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio por favor,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia por favor,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão por favor,consultar_estadia,consultar_estadia_02
+houve cobrança por espera por favor,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado por favor,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia por favor,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas por favor,consultar_estadia,consultar_estadia_06
+calcule o período de espera por favor,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência por favor,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída por favor,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia por favor,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio por favor,consultar_estadia,consultar_estadia_11
+houve espera acima do limite por favor,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia por favor,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar por favor,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas por favor,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência por favor,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta por favor,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar por favor,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância por favor,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio por gentileza,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia por gentileza,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão por gentileza,consultar_estadia,consultar_estadia_02
+houve cobrança por espera por gentileza,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado por gentileza,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia por gentileza,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas por gentileza,consultar_estadia,consultar_estadia_06
+calcule o período de espera por gentileza,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência por gentileza,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída por gentileza,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia por gentileza,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio por gentileza,consultar_estadia,consultar_estadia_11
+houve espera acima do limite por gentileza,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia por gentileza,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar por gentileza,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas por gentileza,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência por gentileza,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta por gentileza,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar por gentileza,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância por gentileza,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio consegue verificar,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia consegue verificar,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão consegue verificar,consultar_estadia,consultar_estadia_02
+houve cobrança por espera consegue verificar,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado consegue verificar,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia consegue verificar,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas consegue verificar,consultar_estadia,consultar_estadia_06
+calcule o período de espera consegue verificar,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência consegue verificar,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída consegue verificar,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia consegue verificar,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio consegue verificar,consultar_estadia,consultar_estadia_11
+houve espera acima do limite consegue verificar,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia consegue verificar,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar consegue verificar,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas consegue verificar,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência consegue verificar,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta consegue verificar,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar consegue verificar,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância consegue verificar,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio quando puder,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia quando puder,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão quando puder,consultar_estadia,consultar_estadia_02
+houve cobrança por espera quando puder,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado quando puder,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia quando puder,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas quando puder,consultar_estadia,consultar_estadia_06
+calcule o período de espera quando puder,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência quando puder,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída quando puder,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia quando puder,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio quando puder,consultar_estadia,consultar_estadia_11
+houve espera acima do limite quando puder,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia quando puder,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar quando puder,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas quando puder,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência quando puder,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta quando puder,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar quando puder,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância quando puder,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio para mim,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia para mim,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão para mim,consultar_estadia,consultar_estadia_02
+houve cobrança por espera para mim,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado para mim,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia para mim,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas para mim,consultar_estadia,consultar_estadia_06
+calcule o período de espera para mim,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência para mim,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída para mim,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia para mim,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio para mim,consultar_estadia,consultar_estadia_11
+houve espera acima do limite para mim,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia para mim,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar para mim,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas para mim,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência para mim,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta para mim,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar para mim,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância para mim,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio agora,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia agora,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão agora,consultar_estadia,consultar_estadia_02
+houve cobrança por espera agora,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado agora,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia agora,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas agora,consultar_estadia,consultar_estadia_06
+calcule o período de espera agora,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência agora,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída agora,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia agora,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio agora,consultar_estadia,consultar_estadia_11
+houve espera acima do limite agora,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia agora,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar agora,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas agora,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência agora,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta agora,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar agora,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância agora,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio rapidinho,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia rapidinho,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão rapidinho,consultar_estadia,consultar_estadia_02
+houve cobrança por espera rapidinho,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado rapidinho,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia rapidinho,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas rapidinho,consultar_estadia,consultar_estadia_06
+calcule o período de espera rapidinho,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência rapidinho,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída rapidinho,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia rapidinho,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio rapidinho,consultar_estadia,consultar_estadia_11
+houve espera acima do limite rapidinho,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia rapidinho,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar rapidinho,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas rapidinho,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência rapidinho,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta rapidinho,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar rapidinho,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância rapidinho,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio pfv,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia pfv,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão pfv,consultar_estadia,consultar_estadia_02
+houve cobrança por espera pfv,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado pfv,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia pfv,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas pfv,consultar_estadia,consultar_estadia_06
+calcule o período de espera pfv,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência pfv,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída pfv,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia pfv,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio pfv,consultar_estadia,consultar_estadia_11
+houve espera acima do limite pfv,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia pfv,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar pfv,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas pfv,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência pfv,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta pfv,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar pfv,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância pfv,consultar_estadia,consultar_estadia_19
+calcule o tempo excedente no pátio por favor?,consultar_estadia,consultar_estadia_00
+quanto passou da tolerância de estadia por favor?,consultar_estadia,consultar_estadia_01
+verifique a permanência do caminhão por favor?,consultar_estadia,consultar_estadia_02
+houve cobrança por espera por favor?,consultar_estadia,consultar_estadia_03
+quanto tempo o veículo ficou parado por favor?,consultar_estadia,consultar_estadia_04
+consulte as horas de estadia por favor?,consultar_estadia,consultar_estadia_05
+a carga ultrapassou cinco horas por favor?,consultar_estadia,consultar_estadia_06
+calcule o período de espera por favor?,consultar_estadia,consultar_estadia_07
+qual o excedente de permanência por favor?,consultar_estadia,consultar_estadia_08
+verifique o tempo entre chegada e saída por favor?,consultar_estadia,consultar_estadia_09
+o veículo gerou estadia por favor?,consultar_estadia,consultar_estadia_10
+quanto tempo durou a operação no pátio por favor?,consultar_estadia,consultar_estadia_11
+houve espera acima do limite por favor?,consultar_estadia,consultar_estadia_12
+calcule o valor estimado da estadia por favor?,consultar_estadia,consultar_estadia_13
+consulte a demora para carregar por favor?,consultar_estadia,consultar_estadia_14
+o caminhão excedeu a janela de cinco horas por favor?,consultar_estadia,consultar_estadia_15
+qual foi o período de permanência por favor?,consultar_estadia,consultar_estadia_16
+verifique a espera da carreta por favor?,consultar_estadia,consultar_estadia_17
+quanto ficou parado para descarregar por favor?,consultar_estadia,consultar_estadia_18
+a operação passou do prazo de tolerância por favor?,consultar_estadia,consultar_estadia_19
+consulte os dados da transportadora,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora por favor,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete por favor,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável por favor,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa por favor,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte por favor,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora por favor,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga por favor,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada por favor,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete por favor,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador por favor,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio por favor,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga por favor,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte por favor,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega por favor,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística por favor,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação por favor,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira por favor,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria por favor,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora por favor,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio por favor,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora por gentileza,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete por gentileza,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável por gentileza,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa por gentileza,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte por gentileza,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora por gentileza,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga por gentileza,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada por gentileza,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete por gentileza,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador por gentileza,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio por gentileza,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga por gentileza,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte por gentileza,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega por gentileza,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística por gentileza,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação por gentileza,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira por gentileza,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria por gentileza,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora por gentileza,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio por gentileza,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora consegue verificar,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete consegue verificar,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável consegue verificar,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa consegue verificar,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte consegue verificar,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora consegue verificar,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga consegue verificar,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada consegue verificar,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete consegue verificar,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador consegue verificar,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio consegue verificar,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga consegue verificar,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte consegue verificar,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega consegue verificar,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística consegue verificar,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação consegue verificar,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira consegue verificar,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria consegue verificar,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora consegue verificar,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio consegue verificar,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora quando puder,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete quando puder,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável quando puder,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa quando puder,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte quando puder,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora quando puder,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga quando puder,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada quando puder,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete quando puder,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador quando puder,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio quando puder,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga quando puder,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte quando puder,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega quando puder,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística quando puder,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação quando puder,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira quando puder,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria quando puder,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora quando puder,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio quando puder,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora para mim,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete para mim,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável para mim,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa para mim,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte para mim,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora para mim,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga para mim,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada para mim,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete para mim,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador para mim,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio para mim,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga para mim,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte para mim,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega para mim,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística para mim,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação para mim,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira para mim,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria para mim,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora para mim,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio para mim,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora agora,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete agora,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável agora,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa agora,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte agora,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora agora,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga agora,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada agora,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete agora,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador agora,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio agora,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga agora,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte agora,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega agora,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística agora,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação agora,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira agora,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria agora,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora agora,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio agora,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora rapidinho,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete rapidinho,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável rapidinho,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa rapidinho,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte rapidinho,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora rapidinho,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga rapidinho,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada rapidinho,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete rapidinho,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador rapidinho,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio rapidinho,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga rapidinho,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte rapidinho,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega rapidinho,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística rapidinho,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação rapidinho,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira rapidinho,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria rapidinho,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora rapidinho,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio rapidinho,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora pfv,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete pfv,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável pfv,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa pfv,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte pfv,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora pfv,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga pfv,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada pfv,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete pfv,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador pfv,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio pfv,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga pfv,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte pfv,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega pfv,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística pfv,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação pfv,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira pfv,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria pfv,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora pfv,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio pfv,consultar_transportadora,consultar_transportadora_19
+consulte os dados da transportadora por favor?,consultar_transportadora,consultar_transportadora_00
+qual empresa realizou o frete por favor?,consultar_transportadora,consultar_transportadora_01
+verifique a transportadora responsável por favor?,consultar_transportadora,consultar_transportadora_02
+mostre os embarques da empresa por favor?,consultar_transportadora,consultar_transportadora_03
+quem está fazendo esse transporte por favor?,consultar_transportadora,consultar_transportadora_04
+quero consultar uma transportadora por favor?,consultar_transportadora,consultar_transportadora_05
+qual companhia levou a carga por favor?,consultar_transportadora,consultar_transportadora_06
+consulte a frota cadastrada por favor?,consultar_transportadora,consultar_transportadora_07
+quem é o prestador do frete por favor?,consultar_transportadora,consultar_transportadora_08
+verifique os dados do transportador por favor?,consultar_transportadora,consultar_transportadora_09
+qual empresa está vinculada ao envio por favor?,consultar_transportadora,consultar_transportadora_10
+mostre a transportadora da carga por favor?,consultar_transportadora,consultar_transportadora_11
+consulte o histórico da empresa de transporte por favor?,consultar_transportadora,consultar_transportadora_12
+quem ficou responsável pela entrega por favor?,consultar_transportadora,consultar_transportadora_13
+verifique a empresa logística por favor?,consultar_transportadora,consultar_transportadora_14
+qual transportador atende essa operação por favor?,consultar_transportadora,consultar_transportadora_15
+consulte a empresa parceira por favor?,consultar_transportadora,consultar_transportadora_16
+quero saber quem levou a mercadoria por favor?,consultar_transportadora,consultar_transportadora_17
+mostre o resumo da transportadora por favor?,consultar_transportadora,consultar_transportadora_18
+identifique a empresa que fez o envio por favor?,consultar_transportadora,consultar_transportadora_19
+oi tudo bem,saudacao,saudacao_00
+olá assistente,saudacao,saudacao_01
+bom dia para você,saudacao,saudacao_02
+boa tarde pessoal,saudacao,saudacao_03
+boa noite bot,saudacao,saudacao_04
+e aí como vai,saudacao,saudacao_05
+saudações assistente,saudacao,saudacao_06
+oi posso falar com você,saudacao,saudacao_07
+bom dia equipe,saudacao,saudacao_08
+olá tudo certo,saudacao,saudacao_09
+boa tarde tudo bem,saudacao,saudacao_10
+oi estou chegando,saudacao,saudacao_11
+como vai assistente,saudacao,saudacao_12
+um bom dia para todos,saudacao,saudacao_13
+olá bom te encontrar,saudacao,saudacao_14
+boa noite tudo certo,saudacao,saudacao_15
+oi agradeço pela ajuda,saudacao,saudacao_16
+até logo obrigado,saudacao,saudacao_17
+valeu até mais,saudacao,saudacao_18
+obrigado pela atenção,saudacao,saudacao_19
+oi tudo bem por favor,saudacao,saudacao_00
+olá assistente por favor,saudacao,saudacao_01
+bom dia para você por favor,saudacao,saudacao_02
+boa tarde pessoal por favor,saudacao,saudacao_03
+boa noite bot por favor,saudacao,saudacao_04
+e aí como vai por favor,saudacao,saudacao_05
+saudações assistente por favor,saudacao,saudacao_06
+oi posso falar com você por favor,saudacao,saudacao_07
+bom dia equipe por favor,saudacao,saudacao_08
+olá tudo certo por favor,saudacao,saudacao_09
+boa tarde tudo bem por favor,saudacao,saudacao_10
+oi estou chegando por favor,saudacao,saudacao_11
+como vai assistente por favor,saudacao,saudacao_12
+um bom dia para todos por favor,saudacao,saudacao_13
+olá bom te encontrar por favor,saudacao,saudacao_14
+boa noite tudo certo por favor,saudacao,saudacao_15
+oi agradeço pela ajuda por favor,saudacao,saudacao_16
+até logo obrigado por favor,saudacao,saudacao_17
+valeu até mais por favor,saudacao,saudacao_18
+obrigado pela atenção por favor,saudacao,saudacao_19
+oi tudo bem por gentileza,saudacao,saudacao_00
+olá assistente por gentileza,saudacao,saudacao_01
+bom dia para você por gentileza,saudacao,saudacao_02
+boa tarde pessoal por gentileza,saudacao,saudacao_03
+boa noite bot por gentileza,saudacao,saudacao_04
+e aí como vai por gentileza,saudacao,saudacao_05
+saudações assistente por gentileza,saudacao,saudacao_06
+oi posso falar com você por gentileza,saudacao,saudacao_07
+bom dia equipe por gentileza,saudacao,saudacao_08
+olá tudo certo por gentileza,saudacao,saudacao_09
+boa tarde tudo bem por gentileza,saudacao,saudacao_10
+oi estou chegando por gentileza,saudacao,saudacao_11
+como vai assistente por gentileza,saudacao,saudacao_12
+um bom dia para todos por gentileza,saudacao,saudacao_13
+olá bom te encontrar por gentileza,saudacao,saudacao_14
+boa noite tudo certo por gentileza,saudacao,saudacao_15
+oi agradeço pela ajuda por gentileza,saudacao,saudacao_16
+até logo obrigado por gentileza,saudacao,saudacao_17
+valeu até mais por gentileza,saudacao,saudacao_18
+obrigado pela atenção por gentileza,saudacao,saudacao_19
+oi tudo bem consegue verificar,saudacao,saudacao_00
+olá assistente consegue verificar,saudacao,saudacao_01
+bom dia para você consegue verificar,saudacao,saudacao_02
+boa tarde pessoal consegue verificar,saudacao,saudacao_03
+boa noite bot consegue verificar,saudacao,saudacao_04
+e aí como vai consegue verificar,saudacao,saudacao_05
+saudações assistente consegue verificar,saudacao,saudacao_06
+oi posso falar com você consegue verificar,saudacao,saudacao_07
+bom dia equipe consegue verificar,saudacao,saudacao_08
+olá tudo certo consegue verificar,saudacao,saudacao_09
+boa tarde tudo bem consegue verificar,saudacao,saudacao_10
+oi estou chegando consegue verificar,saudacao,saudacao_11
+como vai assistente consegue verificar,saudacao,saudacao_12
+um bom dia para todos consegue verificar,saudacao,saudacao_13
+olá bom te encontrar consegue verificar,saudacao,saudacao_14
+boa noite tudo certo consegue verificar,saudacao,saudacao_15
+oi agradeço pela ajuda consegue verificar,saudacao,saudacao_16
+até logo obrigado consegue verificar,saudacao,saudacao_17
+valeu até mais consegue verificar,saudacao,saudacao_18
+obrigado pela atenção consegue verificar,saudacao,saudacao_19
+oi tudo bem quando puder,saudacao,saudacao_00
+olá assistente quando puder,saudacao,saudacao_01
+bom dia para você quando puder,saudacao,saudacao_02
+boa tarde pessoal quando puder,saudacao,saudacao_03
+boa noite bot quando puder,saudacao,saudacao_04
+e aí como vai quando puder,saudacao,saudacao_05
+saudações assistente quando puder,saudacao,saudacao_06
+oi posso falar com você quando puder,saudacao,saudacao_07
+bom dia equipe quando puder,saudacao,saudacao_08
+olá tudo certo quando puder,saudacao,saudacao_09
+boa tarde tudo bem quando puder,saudacao,saudacao_10
+oi estou chegando quando puder,saudacao,saudacao_11
+como vai assistente quando puder,saudacao,saudacao_12
+um bom dia para todos quando puder,saudacao,saudacao_13
+olá bom te encontrar quando puder,saudacao,saudacao_14
+boa noite tudo certo quando puder,saudacao,saudacao_15
+oi agradeço pela ajuda quando puder,saudacao,saudacao_16
+até logo obrigado quando puder,saudacao,saudacao_17
+valeu até mais quando puder,saudacao,saudacao_18
+obrigado pela atenção quando puder,saudacao,saudacao_19
+oi tudo bem para mim,saudacao,saudacao_00
+olá assistente para mim,saudacao,saudacao_01
+bom dia para você para mim,saudacao,saudacao_02
+boa tarde pessoal para mim,saudacao,saudacao_03
+boa noite bot para mim,saudacao,saudacao_04
+e aí como vai para mim,saudacao,saudacao_05
+saudações assistente para mim,saudacao,saudacao_06
+oi posso falar com você para mim,saudacao,saudacao_07
+bom dia equipe para mim,saudacao,saudacao_08
+olá tudo certo para mim,saudacao,saudacao_09
+boa tarde tudo bem para mim,saudacao,saudacao_10
+oi estou chegando para mim,saudacao,saudacao_11
+como vai assistente para mim,saudacao,saudacao_12
+um bom dia para todos para mim,saudacao,saudacao_13
+olá bom te encontrar para mim,saudacao,saudacao_14
+boa noite tudo certo para mim,saudacao,saudacao_15
+oi agradeço pela ajuda para mim,saudacao,saudacao_16
+até logo obrigado para mim,saudacao,saudacao_17
+valeu até mais para mim,saudacao,saudacao_18
+obrigado pela atenção para mim,saudacao,saudacao_19
+oi tudo bem agora,saudacao,saudacao_00
+olá assistente agora,saudacao,saudacao_01
+bom dia para você agora,saudacao,saudacao_02
+boa tarde pessoal agora,saudacao,saudacao_03
+boa noite bot agora,saudacao,saudacao_04
+e aí como vai agora,saudacao,saudacao_05
+saudações assistente agora,saudacao,saudacao_06
+oi posso falar com você agora,saudacao,saudacao_07
+bom dia equipe agora,saudacao,saudacao_08
+olá tudo certo agora,saudacao,saudacao_09
+boa tarde tudo bem agora,saudacao,saudacao_10
+oi estou chegando agora,saudacao,saudacao_11
+como vai assistente agora,saudacao,saudacao_12
+um bom dia para todos agora,saudacao,saudacao_13
+olá bom te encontrar agora,saudacao,saudacao_14
+boa noite tudo certo agora,saudacao,saudacao_15
+oi agradeço pela ajuda agora,saudacao,saudacao_16
+até logo obrigado agora,saudacao,saudacao_17
+valeu até mais agora,saudacao,saudacao_18
+obrigado pela atenção agora,saudacao,saudacao_19
+oi tudo bem rapidinho,saudacao,saudacao_00
+olá assistente rapidinho,saudacao,saudacao_01
+bom dia para você rapidinho,saudacao,saudacao_02
+boa tarde pessoal rapidinho,saudacao,saudacao_03
+boa noite bot rapidinho,saudacao,saudacao_04
+e aí como vai rapidinho,saudacao,saudacao_05
+saudações assistente rapidinho,saudacao,saudacao_06
+oi posso falar com você rapidinho,saudacao,saudacao_07
+bom dia equipe rapidinho,saudacao,saudacao_08
+olá tudo certo rapidinho,saudacao,saudacao_09
+boa tarde tudo bem rapidinho,saudacao,saudacao_10
+oi estou chegando rapidinho,saudacao,saudacao_11
+como vai assistente rapidinho,saudacao,saudacao_12
+um bom dia para todos rapidinho,saudacao,saudacao_13
+olá bom te encontrar rapidinho,saudacao,saudacao_14
+boa noite tudo certo rapidinho,saudacao,saudacao_15
+oi agradeço pela ajuda rapidinho,saudacao,saudacao_16
+até logo obrigado rapidinho,saudacao,saudacao_17
+valeu até mais rapidinho,saudacao,saudacao_18
+obrigado pela atenção rapidinho,saudacao,saudacao_19
+oi tudo bem pfv,saudacao,saudacao_00
+olá assistente pfv,saudacao,saudacao_01
+bom dia para você pfv,saudacao,saudacao_02
+boa tarde pessoal pfv,saudacao,saudacao_03
+boa noite bot pfv,saudacao,saudacao_04
+e aí como vai pfv,saudacao,saudacao_05
+saudações assistente pfv,saudacao,saudacao_06
+oi posso falar com você pfv,saudacao,saudacao_07
+bom dia equipe pfv,saudacao,saudacao_08
+olá tudo certo pfv,saudacao,saudacao_09
+boa tarde tudo bem pfv,saudacao,saudacao_10
+oi estou chegando pfv,saudacao,saudacao_11
+como vai assistente pfv,saudacao,saudacao_12
+um bom dia para todos pfv,saudacao,saudacao_13
+olá bom te encontrar pfv,saudacao,saudacao_14
+boa noite tudo certo pfv,saudacao,saudacao_15
+oi agradeço pela ajuda pfv,saudacao,saudacao_16
+até logo obrigado pfv,saudacao,saudacao_17
+valeu até mais pfv,saudacao,saudacao_18
+obrigado pela atenção pfv,saudacao,saudacao_19
+oi tudo bem por favor?,saudacao,saudacao_00
+olá assistente por favor?,saudacao,saudacao_01
+bom dia para você por favor?,saudacao,saudacao_02
+boa tarde pessoal por favor?,saudacao,saudacao_03
+boa noite bot por favor?,saudacao,saudacao_04
+e aí como vai por favor?,saudacao,saudacao_05
+saudações assistente por favor?,saudacao,saudacao_06
+oi posso falar com você por favor?,saudacao,saudacao_07
+bom dia equipe por favor?,saudacao,saudacao_08
+olá tudo certo por favor?,saudacao,saudacao_09
+boa tarde tudo bem por favor?,saudacao,saudacao_10
+oi estou chegando por favor?,saudacao,saudacao_11
+como vai assistente por favor?,saudacao,saudacao_12
+um bom dia para todos por favor?,saudacao,saudacao_13
+olá bom te encontrar por favor?,saudacao,saudacao_14
+boa noite tudo certo por favor?,saudacao,saudacao_15
+oi agradeço pela ajuda por favor?,saudacao,saudacao_16
+até logo obrigado por favor?,saudacao,saudacao_17
+valeu até mais por favor?,saudacao,saudacao_18
+obrigado pela atenção por favor?,saudacao,saudacao_19
+como posso usar o assistente,ajuda,ajuda_00
+me mostre os comandos disponíveis,ajuda,ajuda_01
+preciso de ajuda para consultar,ajuda,ajuda_02
+quais informações você consegue buscar,ajuda,ajuda_03
+explique como fazer uma consulta,ajuda,ajuda_04
+quais assuntos são suportados,ajuda,ajuda_05
+me oriente sobre o sistema,ajuda,ajuda_06
+como encontro um embarque,ajuda,ajuda_07
+quero ver as opções de atendimento,ajuda,ajuda_08
+o que este bot consegue fazer,ajuda,ajuda_09
+como consulto uma nota fiscal,ajuda,ajuda_10
+me ensine a pedir informações,ajuda,ajuda_11
+qual formato devo enviar,ajuda,ajuda_12
+mostre o menu de ajuda,ajuda,ajuda_13
+como consultar o veículo,ajuda,ajuda_14
+quais dados posso pesquisar,ajuda,ajuda_15
+preciso conhecer as funções,ajuda,ajuda_16
+ensine os recursos do chatbot,ajuda,ajuda_17
+como começo a usar o bot,ajuda,ajuda_18
+quais consultas estão disponíveis,ajuda,ajuda_19
+como posso usar o assistente por favor,ajuda,ajuda_00
+me mostre os comandos disponíveis por favor,ajuda,ajuda_01
+preciso de ajuda para consultar por favor,ajuda,ajuda_02
+quais informações você consegue buscar por favor,ajuda,ajuda_03
+explique como fazer uma consulta por favor,ajuda,ajuda_04
+quais assuntos são suportados por favor,ajuda,ajuda_05
+me oriente sobre o sistema por favor,ajuda,ajuda_06
+como encontro um embarque por favor,ajuda,ajuda_07
+quero ver as opções de atendimento por favor,ajuda,ajuda_08
+o que este bot consegue fazer por favor,ajuda,ajuda_09
+como consulto uma nota fiscal por favor,ajuda,ajuda_10
+me ensine a pedir informações por favor,ajuda,ajuda_11
+qual formato devo enviar por favor,ajuda,ajuda_12
+mostre o menu de ajuda por favor,ajuda,ajuda_13
+como consultar o veículo por favor,ajuda,ajuda_14
+quais dados posso pesquisar por favor,ajuda,ajuda_15
+preciso conhecer as funções por favor,ajuda,ajuda_16
+ensine os recursos do chatbot por favor,ajuda,ajuda_17
+como começo a usar o bot por favor,ajuda,ajuda_18
+quais consultas estão disponíveis por favor,ajuda,ajuda_19
+como posso usar o assistente por gentileza,ajuda,ajuda_00
+me mostre os comandos disponíveis por gentileza,ajuda,ajuda_01
+preciso de ajuda para consultar por gentileza,ajuda,ajuda_02
+quais informações você consegue buscar por gentileza,ajuda,ajuda_03
+explique como fazer uma consulta por gentileza,ajuda,ajuda_04
+quais assuntos são suportados por gentileza,ajuda,ajuda_05
+me oriente sobre o sistema por gentileza,ajuda,ajuda_06
+como encontro um embarque por gentileza,ajuda,ajuda_07
+quero ver as opções de atendimento por gentileza,ajuda,ajuda_08
+o que este bot consegue fazer por gentileza,ajuda,ajuda_09
+como consulto uma nota fiscal por gentileza,ajuda,ajuda_10
+me ensine a pedir informações por gentileza,ajuda,ajuda_11
+qual formato devo enviar por gentileza,ajuda,ajuda_12
+mostre o menu de ajuda por gentileza,ajuda,ajuda_13
+como consultar o veículo por gentileza,ajuda,ajuda_14
+quais dados posso pesquisar por gentileza,ajuda,ajuda_15
+preciso conhecer as funções por gentileza,ajuda,ajuda_16
+ensine os recursos do chatbot por gentileza,ajuda,ajuda_17
+como começo a usar o bot por gentileza,ajuda,ajuda_18
+quais consultas estão disponíveis por gentileza,ajuda,ajuda_19
+como posso usar o assistente consegue verificar,ajuda,ajuda_00
+me mostre os comandos disponíveis consegue verificar,ajuda,ajuda_01
+preciso de ajuda para consultar consegue verificar,ajuda,ajuda_02
+quais informações você consegue buscar consegue verificar,ajuda,ajuda_03
+explique como fazer uma consulta consegue verificar,ajuda,ajuda_04
+quais assuntos são suportados consegue verificar,ajuda,ajuda_05
+me oriente sobre o sistema consegue verificar,ajuda,ajuda_06
+como encontro um embarque consegue verificar,ajuda,ajuda_07
+quero ver as opções de atendimento consegue verificar,ajuda,ajuda_08
+o que este bot consegue fazer consegue verificar,ajuda,ajuda_09
+como consulto uma nota fiscal consegue verificar,ajuda,ajuda_10
+me ensine a pedir informações consegue verificar,ajuda,ajuda_11
+qual formato devo enviar consegue verificar,ajuda,ajuda_12
+mostre o menu de ajuda consegue verificar,ajuda,ajuda_13
+como consultar o veículo consegue verificar,ajuda,ajuda_14
+quais dados posso pesquisar consegue verificar,ajuda,ajuda_15
+preciso conhecer as funções consegue verificar,ajuda,ajuda_16
+ensine os recursos do chatbot consegue verificar,ajuda,ajuda_17
+como começo a usar o bot consegue verificar,ajuda,ajuda_18
+quais consultas estão disponíveis consegue verificar,ajuda,ajuda_19
+como posso usar o assistente quando puder,ajuda,ajuda_00
+me mostre os comandos disponíveis quando puder,ajuda,ajuda_01
+preciso de ajuda para consultar quando puder,ajuda,ajuda_02
+quais informações você consegue buscar quando puder,ajuda,ajuda_03
+explique como fazer uma consulta quando puder,ajuda,ajuda_04
+quais assuntos são suportados quando puder,ajuda,ajuda_05
+me oriente sobre o sistema quando puder,ajuda,ajuda_06
+como encontro um embarque quando puder,ajuda,ajuda_07
+quero ver as opções de atendimento quando puder,ajuda,ajuda_08
+o que este bot consegue fazer quando puder,ajuda,ajuda_09
+como consulto uma nota fiscal quando puder,ajuda,ajuda_10
+me ensine a pedir informações quando puder,ajuda,ajuda_11
+qual formato devo enviar quando puder,ajuda,ajuda_12
+mostre o menu de ajuda quando puder,ajuda,ajuda_13
+como consultar o veículo quando puder,ajuda,ajuda_14
+quais dados posso pesquisar quando puder,ajuda,ajuda_15
+preciso conhecer as funções quando puder,ajuda,ajuda_16
+ensine os recursos do chatbot quando puder,ajuda,ajuda_17
+como começo a usar o bot quando puder,ajuda,ajuda_18
+quais consultas estão disponíveis quando puder,ajuda,ajuda_19
+como posso usar o assistente para mim,ajuda,ajuda_00
+me mostre os comandos disponíveis para mim,ajuda,ajuda_01
+preciso de ajuda para consultar para mim,ajuda,ajuda_02
+quais informações você consegue buscar para mim,ajuda,ajuda_03
+explique como fazer uma consulta para mim,ajuda,ajuda_04
+quais assuntos são suportados para mim,ajuda,ajuda_05
+me oriente sobre o sistema para mim,ajuda,ajuda_06
+como encontro um embarque para mim,ajuda,ajuda_07
+quero ver as opções de atendimento para mim,ajuda,ajuda_08
+o que este bot consegue fazer para mim,ajuda,ajuda_09
+como consulto uma nota fiscal para mim,ajuda,ajuda_10
+me ensine a pedir informações para mim,ajuda,ajuda_11
+qual formato devo enviar para mim,ajuda,ajuda_12
+mostre o menu de ajuda para mim,ajuda,ajuda_13
+como consultar o veículo para mim,ajuda,ajuda_14
+quais dados posso pesquisar para mim,ajuda,ajuda_15
+preciso conhecer as funções para mim,ajuda,ajuda_16
+ensine os recursos do chatbot para mim,ajuda,ajuda_17
+como começo a usar o bot para mim,ajuda,ajuda_18
+quais consultas estão disponíveis para mim,ajuda,ajuda_19
+como posso usar o assistente agora,ajuda,ajuda_00
+me mostre os comandos disponíveis agora,ajuda,ajuda_01
+preciso de ajuda para consultar agora,ajuda,ajuda_02
+quais informações você consegue buscar agora,ajuda,ajuda_03
+explique como fazer uma consulta agora,ajuda,ajuda_04
+quais assuntos são suportados agora,ajuda,ajuda_05
+me oriente sobre o sistema agora,ajuda,ajuda_06
+como encontro um embarque agora,ajuda,ajuda_07
+quero ver as opções de atendimento agora,ajuda,ajuda_08
+o que este bot consegue fazer agora,ajuda,ajuda_09
+como consulto uma nota fiscal agora,ajuda,ajuda_10
+me ensine a pedir informações agora,ajuda,ajuda_11
+qual formato devo enviar agora,ajuda,ajuda_12
+mostre o menu de ajuda agora,ajuda,ajuda_13
+como consultar o veículo agora,ajuda,ajuda_14
+quais dados posso pesquisar agora,ajuda,ajuda_15
+preciso conhecer as funções agora,ajuda,ajuda_16
+ensine os recursos do chatbot agora,ajuda,ajuda_17
+como começo a usar o bot agora,ajuda,ajuda_18
+quais consultas estão disponíveis agora,ajuda,ajuda_19
+como posso usar o assistente rapidinho,ajuda,ajuda_00
+me mostre os comandos disponíveis rapidinho,ajuda,ajuda_01
+preciso de ajuda para consultar rapidinho,ajuda,ajuda_02
+quais informações você consegue buscar rapidinho,ajuda,ajuda_03
+explique como fazer uma consulta rapidinho,ajuda,ajuda_04
+quais assuntos são suportados rapidinho,ajuda,ajuda_05
+me oriente sobre o sistema rapidinho,ajuda,ajuda_06
+como encontro um embarque rapidinho,ajuda,ajuda_07
+quero ver as opções de atendimento rapidinho,ajuda,ajuda_08
+o que este bot consegue fazer rapidinho,ajuda,ajuda_09
+como consulto uma nota fiscal rapidinho,ajuda,ajuda_10
+me ensine a pedir informações rapidinho,ajuda,ajuda_11
+qual formato devo enviar rapidinho,ajuda,ajuda_12
+mostre o menu de ajuda rapidinho,ajuda,ajuda_13
+como consultar o veículo rapidinho,ajuda,ajuda_14
+quais dados posso pesquisar rapidinho,ajuda,ajuda_15
+preciso conhecer as funções rapidinho,ajuda,ajuda_16
+ensine os recursos do chatbot rapidinho,ajuda,ajuda_17
+como começo a usar o bot rapidinho,ajuda,ajuda_18
+quais consultas estão disponíveis rapidinho,ajuda,ajuda_19
+como posso usar o assistente pfv,ajuda,ajuda_00
+me mostre os comandos disponíveis pfv,ajuda,ajuda_01
+preciso de ajuda para consultar pfv,ajuda,ajuda_02
+quais informações você consegue buscar pfv,ajuda,ajuda_03
+explique como fazer uma consulta pfv,ajuda,ajuda_04
+quais assuntos são suportados pfv,ajuda,ajuda_05
+me oriente sobre o sistema pfv,ajuda,ajuda_06
+como encontro um embarque pfv,ajuda,ajuda_07
+quero ver as opções de atendimento pfv,ajuda,ajuda_08
+o que este bot consegue fazer pfv,ajuda,ajuda_09
+como consulto uma nota fiscal pfv,ajuda,ajuda_10
+me ensine a pedir informações pfv,ajuda,ajuda_11
+qual formato devo enviar pfv,ajuda,ajuda_12
+mostre o menu de ajuda pfv,ajuda,ajuda_13
+como consultar o veículo pfv,ajuda,ajuda_14
+quais dados posso pesquisar pfv,ajuda,ajuda_15
+preciso conhecer as funções pfv,ajuda,ajuda_16
+ensine os recursos do chatbot pfv,ajuda,ajuda_17
+como começo a usar o bot pfv,ajuda,ajuda_18
+quais consultas estão disponíveis pfv,ajuda,ajuda_19
+como posso usar o assistente por favor?,ajuda,ajuda_00
+me mostre os comandos disponíveis por favor?,ajuda,ajuda_01
+preciso de ajuda para consultar por favor?,ajuda,ajuda_02
+quais informações você consegue buscar por favor?,ajuda,ajuda_03
+explique como fazer uma consulta por favor?,ajuda,ajuda_04
+quais assuntos são suportados por favor?,ajuda,ajuda_05
+me oriente sobre o sistema por favor?,ajuda,ajuda_06
+como encontro um embarque por favor?,ajuda,ajuda_07
+quero ver as opções de atendimento por favor?,ajuda,ajuda_08
+o que este bot consegue fazer por favor?,ajuda,ajuda_09
+como consulto uma nota fiscal por favor?,ajuda,ajuda_10
+me ensine a pedir informações por favor?,ajuda,ajuda_11
+qual formato devo enviar por favor?,ajuda,ajuda_12
+mostre o menu de ajuda por favor?,ajuda,ajuda_13
+como consultar o veículo por favor?,ajuda,ajuda_14
+quais dados posso pesquisar por favor?,ajuda,ajuda_15
+preciso conhecer as funções por favor?,ajuda,ajuda_16
+ensine os recursos do chatbot por favor?,ajuda,ajuda_17
+como começo a usar o bot por favor?,ajuda,ajuda_18
+quais consultas estão disponíveis por favor?,ajuda,ajuda_19
+qual a previsão do tempo amanhã,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol,fora_escopo,fora_escopo_01
+conte uma piada para mim,fora_escopo,fora_escopo_02
+qual é a cotação do dólar,fora_escopo,fora_escopo_03
+me passe uma receita de bolo,fora_escopo,fora_escopo_04
+recomende um filme de comédia,fora_escopo,fora_escopo_05
+como está o trânsito na cidade,fora_escopo,fora_escopo_06
+qual música está tocando agora,fora_escopo,fora_escopo_07
+resolva uma equação matemática,fora_escopo,fora_escopo_08
+me conte uma notícia política,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima,fora_escopo,fora_escopo_10
+qual é a capital da Argentina,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem,fora_escopo,fora_escopo_12
+como cuidar de uma planta,fora_escopo,fora_escopo_13
+qual será o resultado do jogo,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete,fora_escopo,fora_escopo_16
+me indique um restaurante italiano,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo,fora_escopo,fora_escopo_18
+explique a história do cinema,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã por favor,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol por favor,fora_escopo,fora_escopo_01
+conte uma piada para mim por favor,fora_escopo,fora_escopo_02
+qual é a cotação do dólar por favor,fora_escopo,fora_escopo_03
+me passe uma receita de bolo por favor,fora_escopo,fora_escopo_04
+recomende um filme de comédia por favor,fora_escopo,fora_escopo_05
+como está o trânsito na cidade por favor,fora_escopo,fora_escopo_06
+qual música está tocando agora por favor,fora_escopo,fora_escopo_07
+resolva uma equação matemática por favor,fora_escopo,fora_escopo_08
+me conte uma notícia política por favor,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima por favor,fora_escopo,fora_escopo_10
+qual é a capital da Argentina por favor,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem por favor,fora_escopo,fora_escopo_12
+como cuidar de uma planta por favor,fora_escopo,fora_escopo_13
+qual será o resultado do jogo por favor,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade por favor,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete por favor,fora_escopo,fora_escopo_16
+me indique um restaurante italiano por favor,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo por favor,fora_escopo,fora_escopo_18
+explique a história do cinema por favor,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã por gentileza,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol por gentileza,fora_escopo,fora_escopo_01
+conte uma piada para mim por gentileza,fora_escopo,fora_escopo_02
+qual é a cotação do dólar por gentileza,fora_escopo,fora_escopo_03
+me passe uma receita de bolo por gentileza,fora_escopo,fora_escopo_04
+recomende um filme de comédia por gentileza,fora_escopo,fora_escopo_05
+como está o trânsito na cidade por gentileza,fora_escopo,fora_escopo_06
+qual música está tocando agora por gentileza,fora_escopo,fora_escopo_07
+resolva uma equação matemática por gentileza,fora_escopo,fora_escopo_08
+me conte uma notícia política por gentileza,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima por gentileza,fora_escopo,fora_escopo_10
+qual é a capital da Argentina por gentileza,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem por gentileza,fora_escopo,fora_escopo_12
+como cuidar de uma planta por gentileza,fora_escopo,fora_escopo_13
+qual será o resultado do jogo por gentileza,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade por gentileza,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete por gentileza,fora_escopo,fora_escopo_16
+me indique um restaurante italiano por gentileza,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo por gentileza,fora_escopo,fora_escopo_18
+explique a história do cinema por gentileza,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã consegue verificar,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol consegue verificar,fora_escopo,fora_escopo_01
+conte uma piada para mim consegue verificar,fora_escopo,fora_escopo_02
+qual é a cotação do dólar consegue verificar,fora_escopo,fora_escopo_03
+me passe uma receita de bolo consegue verificar,fora_escopo,fora_escopo_04
+recomende um filme de comédia consegue verificar,fora_escopo,fora_escopo_05
+como está o trânsito na cidade consegue verificar,fora_escopo,fora_escopo_06
+qual música está tocando agora consegue verificar,fora_escopo,fora_escopo_07
+resolva uma equação matemática consegue verificar,fora_escopo,fora_escopo_08
+me conte uma notícia política consegue verificar,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima consegue verificar,fora_escopo,fora_escopo_10
+qual é a capital da Argentina consegue verificar,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem consegue verificar,fora_escopo,fora_escopo_12
+como cuidar de uma planta consegue verificar,fora_escopo,fora_escopo_13
+qual será o resultado do jogo consegue verificar,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade consegue verificar,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete consegue verificar,fora_escopo,fora_escopo_16
+me indique um restaurante italiano consegue verificar,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo consegue verificar,fora_escopo,fora_escopo_18
+explique a história do cinema consegue verificar,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã quando puder,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol quando puder,fora_escopo,fora_escopo_01
+conte uma piada para mim quando puder,fora_escopo,fora_escopo_02
+qual é a cotação do dólar quando puder,fora_escopo,fora_escopo_03
+me passe uma receita de bolo quando puder,fora_escopo,fora_escopo_04
+recomende um filme de comédia quando puder,fora_escopo,fora_escopo_05
+como está o trânsito na cidade quando puder,fora_escopo,fora_escopo_06
+qual música está tocando agora quando puder,fora_escopo,fora_escopo_07
+resolva uma equação matemática quando puder,fora_escopo,fora_escopo_08
+me conte uma notícia política quando puder,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima quando puder,fora_escopo,fora_escopo_10
+qual é a capital da Argentina quando puder,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem quando puder,fora_escopo,fora_escopo_12
+como cuidar de uma planta quando puder,fora_escopo,fora_escopo_13
+qual será o resultado do jogo quando puder,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade quando puder,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete quando puder,fora_escopo,fora_escopo_16
+me indique um restaurante italiano quando puder,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo quando puder,fora_escopo,fora_escopo_18
+explique a história do cinema quando puder,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã para mim,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol para mim,fora_escopo,fora_escopo_01
+conte uma piada para mim para mim,fora_escopo,fora_escopo_02
+qual é a cotação do dólar para mim,fora_escopo,fora_escopo_03
+me passe uma receita de bolo para mim,fora_escopo,fora_escopo_04
+recomende um filme de comédia para mim,fora_escopo,fora_escopo_05
+como está o trânsito na cidade para mim,fora_escopo,fora_escopo_06
+qual música está tocando agora para mim,fora_escopo,fora_escopo_07
+resolva uma equação matemática para mim,fora_escopo,fora_escopo_08
+me conte uma notícia política para mim,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima para mim,fora_escopo,fora_escopo_10
+qual é a capital da Argentina para mim,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem para mim,fora_escopo,fora_escopo_12
+como cuidar de uma planta para mim,fora_escopo,fora_escopo_13
+qual será o resultado do jogo para mim,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade para mim,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete para mim,fora_escopo,fora_escopo_16
+me indique um restaurante italiano para mim,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo para mim,fora_escopo,fora_escopo_18
+explique a história do cinema para mim,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã agora,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol agora,fora_escopo,fora_escopo_01
+conte uma piada para mim agora,fora_escopo,fora_escopo_02
+qual é a cotação do dólar agora,fora_escopo,fora_escopo_03
+me passe uma receita de bolo agora,fora_escopo,fora_escopo_04
+recomende um filme de comédia agora,fora_escopo,fora_escopo_05
+como está o trânsito na cidade agora,fora_escopo,fora_escopo_06
+qual música está tocando agora agora,fora_escopo,fora_escopo_07
+resolva uma equação matemática agora,fora_escopo,fora_escopo_08
+me conte uma notícia política agora,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima agora,fora_escopo,fora_escopo_10
+qual é a capital da Argentina agora,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem agora,fora_escopo,fora_escopo_12
+como cuidar de uma planta agora,fora_escopo,fora_escopo_13
+qual será o resultado do jogo agora,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade agora,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete agora,fora_escopo,fora_escopo_16
+me indique um restaurante italiano agora,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo agora,fora_escopo,fora_escopo_18
+explique a história do cinema agora,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã rapidinho,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol rapidinho,fora_escopo,fora_escopo_01
+conte uma piada para mim rapidinho,fora_escopo,fora_escopo_02
+qual é a cotação do dólar rapidinho,fora_escopo,fora_escopo_03
+me passe uma receita de bolo rapidinho,fora_escopo,fora_escopo_04
+recomende um filme de comédia rapidinho,fora_escopo,fora_escopo_05
+como está o trânsito na cidade rapidinho,fora_escopo,fora_escopo_06
+qual música está tocando agora rapidinho,fora_escopo,fora_escopo_07
+resolva uma equação matemática rapidinho,fora_escopo,fora_escopo_08
+me conte uma notícia política rapidinho,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima rapidinho,fora_escopo,fora_escopo_10
+qual é a capital da Argentina rapidinho,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem rapidinho,fora_escopo,fora_escopo_12
+como cuidar de uma planta rapidinho,fora_escopo,fora_escopo_13
+qual será o resultado do jogo rapidinho,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade rapidinho,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete rapidinho,fora_escopo,fora_escopo_16
+me indique um restaurante italiano rapidinho,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo rapidinho,fora_escopo,fora_escopo_18
+explique a história do cinema rapidinho,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã pfv,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol pfv,fora_escopo,fora_escopo_01
+conte uma piada para mim pfv,fora_escopo,fora_escopo_02
+qual é a cotação do dólar pfv,fora_escopo,fora_escopo_03
+me passe uma receita de bolo pfv,fora_escopo,fora_escopo_04
+recomende um filme de comédia pfv,fora_escopo,fora_escopo_05
+como está o trânsito na cidade pfv,fora_escopo,fora_escopo_06
+qual música está tocando agora pfv,fora_escopo,fora_escopo_07
+resolva uma equação matemática pfv,fora_escopo,fora_escopo_08
+me conte uma notícia política pfv,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima pfv,fora_escopo,fora_escopo_10
+qual é a capital da Argentina pfv,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem pfv,fora_escopo,fora_escopo_12
+como cuidar de uma planta pfv,fora_escopo,fora_escopo_13
+qual será o resultado do jogo pfv,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade pfv,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete pfv,fora_escopo,fora_escopo_16
+me indique um restaurante italiano pfv,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo pfv,fora_escopo,fora_escopo_18
+explique a história do cinema pfv,fora_escopo,fora_escopo_19
+qual a previsão do tempo amanhã por favor?,fora_escopo,fora_escopo_00
+quem ganhou a partida de futebol por favor?,fora_escopo,fora_escopo_01
+conte uma piada para mim por favor?,fora_escopo,fora_escopo_02
+qual é a cotação do dólar por favor?,fora_escopo,fora_escopo_03
+me passe uma receita de bolo por favor?,fora_escopo,fora_escopo_04
+recomende um filme de comédia por favor?,fora_escopo,fora_escopo_05
+como está o trânsito na cidade por favor?,fora_escopo,fora_escopo_06
+qual música está tocando agora por favor?,fora_escopo,fora_escopo_07
+resolva uma equação matemática por favor?,fora_escopo,fora_escopo_08
+me conte uma notícia política por favor?,fora_escopo,fora_escopo_09
+onde fica a praia mais próxima por favor?,fora_escopo,fora_escopo_10
+qual é a capital da Argentina por favor?,fora_escopo,fora_escopo_11
+ajude a planejar uma viagem por favor?,fora_escopo,fora_escopo_12
+como cuidar de uma planta por favor?,fora_escopo,fora_escopo_13
+qual será o resultado do jogo por favor?,fora_escopo,fora_escopo_14
+escreva um poema sobre amizade por favor?,fora_escopo,fora_escopo_15
+quem é o maior jogador de basquete por favor?,fora_escopo,fora_escopo_16
+me indique um restaurante italiano por favor?,fora_escopo,fora_escopo_17
+qual a temperatura em São Paulo por favor?,fora_escopo,fora_escopo_18
+explique a história do cinema por favor?,fora_escopo,fora_escopo_19
